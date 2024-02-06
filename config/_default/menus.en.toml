@@ -2,12 +2,6 @@
 none = "none"
 
 [[main]]
-name = "Blog"
-pageRef = "posts"
-identifier = "Hjnpg2G7pq"
-weight = 1
-
-[[main]]
 name = "Anchorages"
 pageRef = "anchorages"
 identifier = "OR1xQMVdTI"
@@ -18,6 +12,12 @@ name = "Map"
 url = "test"
 identifier = "1wSQXk6JMU"
 weight = 3
+
+[[main]]
+name = "Boat"
+pageRef = "boat"
+identifier = "hrN4Dxch0F"
+weight = 9999
 
 [[footer]]
 none = "none"

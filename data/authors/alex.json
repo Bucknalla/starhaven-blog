@@ -1,10 +1,11 @@
 {
     "name": "Alex Bucknall",
     "image": "img/alex.jpg",
-    "bio": "Skipper",
+    "bio": "Co-Skipper",
     "social": [
         {
-            "twitter": "https://twitter.com/AlexRBucknall"
+            "twitter": "https://twitter.com/AlexRBucknall",
+            "linkedin": "https://www.linkedin.com/in/bucknalla/"
         }
     ]
 }
