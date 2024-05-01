@@ -3,7 +3,6 @@ title: "Welcome!"
 date: 2024-04-14
 draft: false
 description: "What have I stumbled upon..."
-slug: "multi-author"
 tags: ["authors", "config", "docs"]
 showAuthor: false
 authors:
