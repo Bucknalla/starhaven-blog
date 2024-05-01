@@ -1,6 +1,6 @@
 ---
-title: "My landing page"
-date: 2022-03-08
+title: "Anchorages"
+date: 2024-06-10
 layout: "simple"
 ---
-This page content is now full-width.
+Coming soon!
