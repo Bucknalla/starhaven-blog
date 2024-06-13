@@ -9,7 +9,7 @@ weight = 2
 
 [[main]]
 name = "Map"
-url = "test"
+url = "https://saillogger.com/svstar-haven"
 identifier = "1wSQXk6JMU"
 weight = 3
 
@@ -17,7 +17,13 @@ weight = 3
 name = "Boat"
 pageRef = "boat"
 identifier = "hrN4Dxch0F"
-weight = 9999
+weight = 4
+
+[[main]]
+name = "Store"
+pageRef = '/store'
+identifier = "1wSQ3jDJMU"
+weight = 5
 
 [[footer]]
 none = "none"
